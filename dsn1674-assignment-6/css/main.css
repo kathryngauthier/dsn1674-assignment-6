@@ -1,0 +1,47 @@
+body{
+	background-color: navy;
+}
+
+.body{
+
+}
+
+.brain{
+	width: 10%;
+	position: absolute;
+	top: -8px;
+	right: 140px;
+}
+
+
+.righthead{
+	width: 30%;
+	position: absolute;
+	top: -40px;
+	right:40px;
+}
+
+.lefthead{
+	width: 30%;
+	position: absolute;
+	top: -40px;
+	left: 40px;
+}
+
+h1{
+	font-family: "Contrail One";
+	color: white;
+	text-align: center;
+	margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+footer{
+  display: block;
+  font-size: 2em;
+  background-color: black;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
